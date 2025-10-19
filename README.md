@@ -1,5 +1,4 @@
 ### Something unknown is doing we don’t know what.
-##
 ### — Sir Arthur Eddington
 ##
 <!--
