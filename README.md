@@ -17,29 +17,30 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<img src="LINK_DO_SEU_AVATAR" width="200" style="border-radius: 50%;" />
+<img src="https://github.com/SEU_USUARIO_GITHUB.png" width="150" style="border-radius: 50%; border: 3px solid #f05032;" />
 
-# 🦀 Full-stack Rust Developer
+# 🦀 Rust Developer
 
-*Performance, Memory Safety & Low-Latency Networking*
+> "Do or do not, there is no try... only memory safety." — **Yoda**
+
+<img src="http://googleusercontent.com/image_collection/image_retrieval/10601725970958640149_0" width="100" />
 
 ---
 
-### 🛠 My Tech Stack
+### 🛠 Tech Stack & Focus
 `Rust` | `Tokio` | `Tauri 2.0` | `VLESS` | `REALITY`
 
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Rust](https://img.shields.io/badge/Language-Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 </div>
 
-### 🚀 Currently Shipping
-* **Privacy Infrastructure:** Building a next-gen VPN solution.
-* **Focus:** Combining `Tauri 2.0` for the frontend with `Rust` for the backend engine to ensure zero-cost abstractions and total privacy.
+### 🚀 Atualmente a Desenvolver
+* **Infraestrutura de Privacidade:** Construindo uma solução de VPN de próxima geração focada em segurança e anonimato.
+* **Performance:** Utilizando `Rust` no backend para garantir abstrações de custo zero e máxima eficiência.
 
 ---
 
 ### 📊 GitHub Stats
-*Aqui estão dois widgets automáticos. O primeiro mostra seu impacto, o segundo fixa sua linguagem principal em Rust.*
 
 <div align="center">
   
@@ -50,7 +51,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-*Stay Rusty.*
+<p align="center">Que a segurança de memória esteja contigo.</p>
   
 
 
