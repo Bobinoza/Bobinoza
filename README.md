@@ -15,20 +15,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+<img src="LINK_DO_SEU_AVATAR" width="200" style="border-radius: 50%;" />
+
+# 🦀 Full-stack Rust Developer
+
+*Performance, Memory Safety & Low-Latency Networking*
+
+---
+
+### 🛠 My Tech Stack
+`Rust` | `Tokio` | `Tauri 2.0` | `VLESS` | `REALITY`
+
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+
+</div>
+
+### 🚀 Currently Shipping
+* **Privacy Infrastructure:** Building a next-gen VPN solution.
+* **Focus:** Combining `Tauri 2.0` for the frontend with `Rust` for the backend engine to ensure zero-cost abstractions and total privacy.
+
+---
+
+### 📊 GitHub Stats
+*Aqui estão dois widgets automáticos. O primeiro mostra seu impacto, o segundo fixa sua linguagem principal em Rust.*
 
 <div align="center">
-  <a href="https://github.com/Bobinoza">
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&langs_count=1&hide=html,css,javascript&card_width=320&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="nino-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="nino-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="nino-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="nino-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="nino-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="nino-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nino-Node" height="150" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="right" alt="nino-pic" height="100" style="border-radius:50px;" src="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2020/11/legiao_T0EHopI5X1bS.jpg.jpeg">
-</div>
+
+---
+*Stay Rusty.*
   
 
 
